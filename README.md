@@ -1,1 +1,1 @@
-# qrcode_demo_python
+# QR code demo python
